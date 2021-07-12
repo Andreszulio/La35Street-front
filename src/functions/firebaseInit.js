@@ -2,12 +2,12 @@ import firebase from 'firebase/app';
 
 firebase.initializeApp(
     {
-        apiKey: "AIzaSyAYYXkFCmxTeekA1heddYUxjfnYwgAfaMs",
-        authDomain: "la35street.firebaseapp.com",
-        projectId: "la35street",
-        storageBucket: "la35street.appspot.com",
-        messagingSenderId: "760138024324",
-        appId: "1:760138024324:web:4de52809c22457aadc49d1"
+        apiKey: "AIzaSyCqLjS5PjTHd0A3XqRIiBEvnNJGBvENp60",
+        authDomain: "la35str.firebaseapp.com",
+        projectId: "la35str",
+        storageBucket: "la35str.appspot.com",
+        messagingSenderId: "936829925033",
+        appId: "1:936829925033:web:afc2990de53cae2c3b5bb8"
     }
 );
 
